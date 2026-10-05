@@ -30,7 +30,7 @@ class Contract:
     contract_id: str
     customer_id: str
     product_id: str
-    contracting_entity_country: str  # ISO country code of the Arval-side entity
+    contracting_entity_country: str  # ISO country code of the contracting entity
     monthly_rate: float
     start_date: date
     end_date: Optional[date]  # None = still active

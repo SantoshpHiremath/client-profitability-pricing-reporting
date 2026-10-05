@@ -1,6 +1,6 @@
 """Cross-system reconciliation: does the invoice match what the contract says it should be?
 
-This is the direct analogue of the UL Solutions discrepancy-investigation work:
+This is a discrepancy investigation across linked systems:
 two linked records (contract, invoice) that are supposed to agree, checked
 against each other explicitly, with mismatches classified by likely root
 cause rather than just reported as "wrong."
